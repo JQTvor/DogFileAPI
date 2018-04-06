@@ -14,8 +14,8 @@ namespace ConsumeWebAPI
     {
         public string Rando()
         {
-            string dogFile = @"C:\Users\dog.jpg";
- 
+            string dogFile = "dog.jpg";
+            string path = @"C:\Users\Jo\source\repos\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\netcoreapp2.0";
 
             HttpWebRequest request = WebRequest.CreateHttp("https://dog.ceo/api/breeds/image/random");
             HttpWebResponse response = (HttpWebResponse)request.GetResponse();
@@ -29,12 +29,15 @@ namespace ConsumeWebAPI
             WebClient dogpic = new WebClient();
             dogpic.DownloadFile(save, dogFile);
             Console.WriteLine("You're dog pic was saved as " + dogFile + " in directory ");
-            string[] dirs = Directory.GetFiles(@"C:\Users", dogFile);
+            string[] dirs = Directory.GetFiles(path, dogFile);
             foreach (string dir in dirs)
             {
                 Console.WriteLine(dir);
+
+                //Process.Start(dir+@"\"+dogFile);
             }
-            
+
+
 
             return data;
         }
