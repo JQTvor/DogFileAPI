@@ -1,0 +1,11 @@
+C:\Users\Jo\source\repos\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\netcoreapp2.0\ConsumeWebAPI.deps.json
+C:\Users\Jo\source\repos\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\netcoreapp2.0\ConsumeWebAPI.runtimeconfig.json
+C:\Users\Jo\source\repos\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\netcoreapp2.0\ConsumeWebAPI.runtimeconfig.dev.json
+C:\Users\Jo\source\repos\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\netcoreapp2.0\ConsumeWebAPI.dll
+C:\Users\Jo\source\repos\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\netcoreapp2.0\ConsumeWebAPI.pdb
+C:\Users\Jo\source\repos\ConsumeWebAPI\ConsumeWebAPI\obj\Debug\netcoreapp2.0\ConsumeWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Jo\source\repos\ConsumeWebAPI\ConsumeWebAPI\obj\Debug\netcoreapp2.0\ConsumeWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jo\source\repos\ConsumeWebAPI\ConsumeWebAPI\obj\Debug\netcoreapp2.0\ConsumeWebAPI.AssemblyInfoInputs.cache
+C:\Users\Jo\source\repos\ConsumeWebAPI\ConsumeWebAPI\obj\Debug\netcoreapp2.0\ConsumeWebAPI.AssemblyInfo.cs
+C:\Users\Jo\source\repos\ConsumeWebAPI\ConsumeWebAPI\obj\Debug\netcoreapp2.0\ConsumeWebAPI.dll
+C:\Users\Jo\source\repos\ConsumeWebAPI\ConsumeWebAPI\obj\Debug\netcoreapp2.0\ConsumeWebAPI.pdb
